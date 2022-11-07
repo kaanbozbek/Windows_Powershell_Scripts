@@ -1,0 +1,1 @@
+sc.exe failure "{{ Service_Name }}" actions= restart/180000/restart/180000/restart/18000 reset= 86400;
